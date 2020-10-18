@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "html.validate.styles": false,
+    "html.format.enable": false
+}
